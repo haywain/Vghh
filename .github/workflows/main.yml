@@ -9,7 +9,7 @@ Blame
 name: 'Code Review with ChatGPT'
 description: 'Automating code review using ChatGPT with Github Actions integration on PRs for code explanations.'
 inputs:
-  openai_api_key:  # id of input
+  openai_api_key: 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
     description: 'OpenAI API Key'
     required: true
     default: ''
